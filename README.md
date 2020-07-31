@@ -2,6 +2,8 @@
 
 Slot game made in HTML5 Phaser.
 
+<img width="400" alt="slot game screenshot" src="https://github.com/dejsan/slot-game/blob/master/assets/img/slot-game-screenshot.png">
+
 # How to run
 
 Webserver is required because of security feature of phaser.
